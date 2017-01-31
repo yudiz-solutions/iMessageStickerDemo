@@ -1,0 +1,68 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Little Pony.stickersequence"
+    },
+    {
+      "filename" : "Air Balloon.stickersequence"
+    },
+    {
+      "filename" : "4.sticker"
+    },
+    {
+      "filename" : "11.sticker"
+    },
+    {
+      "filename" : "3.sticker"
+    },
+    {
+      "filename" : "10.sticker"
+    },
+    {
+      "filename" : "8.sticker"
+    },
+    {
+      "filename" : "13.sticker"
+    },
+    {
+      "filename" : "1.sticker"
+    },
+    {
+      "filename" : "2.sticker"
+    },
+    {
+      "filename" : "6.sticker"
+    },
+    {
+      "filename" : "7.sticker"
+    },
+    {
+      "filename" : "5.sticker"
+    },
+    {
+      "filename" : "Sticker_1.sticker"
+    },
+    {
+      "filename" : "Sticker_7.sticker"
+    },
+    {
+      "filename" : "Sticker_4.sticker"
+    },
+    {
+      "filename" : "Sticker_13.sticker"
+    },
+    {
+      "filename" : "Sticker_9.sticker"
+    },
+    {
+      "filename" : "Sticker_14.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
